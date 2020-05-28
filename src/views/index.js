@@ -1,12 +1,8 @@
 import About from './About.vue'
-import Home from './Home.vue'
+
 
 routes: [
-    {
-      path: '/',
-      name: 'home',
-      component: Home
-    },
+
     {
       path: '/about',
       name: 'about',
